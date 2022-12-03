@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+                                        
+    
+    
+    
+    
+    
+    
+    
+    
+    <wb-module deploy-name="08-02-Volodin">
+                                                                
+        
+        
+        
+        
+        
+        
+        <wb-resource deploy-path="/" source-path="/Content"/>
+                                                                
+        
+        
+        
+        
+        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <property name="java-output-path" value="/08-02-Volodin/build/classes"/>
+        <property name="context-root" value="08-02-Volodin"/>
+                                                                            
+    
+    
+    
+    
+    
+    
+    
+    
+    </wb-module>
+                                    
+
+
+
+
+
+
+
+
+</project-modules>
